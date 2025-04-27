@@ -14,7 +14,7 @@ This created a 'LibMambaUnsatisfiableError' since the my computer uses a MacOS b
 The same command was used for the second environment and this successfully installed the packages in the v2.yml file
 (/Users/omowonuolaakintola/Documents/PLUS/Programming/repos/images/SC4.png)
 
-(/Users/omowonuolaakintola/Documents/PLUS/Programming/repos/images/SC5.png)
+(../images/SC5.png)
 
 The environment software_dev_v2 was activated and deactivated 
 (/Users/omowonuolaakintola/Documents/PLUS/Programming/repos/images/SC6.png)
