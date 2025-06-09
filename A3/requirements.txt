@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pystac_client
+sarpy
+scipy
