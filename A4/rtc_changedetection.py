@@ -12,6 +12,7 @@ This file can be imported as a module and contain the following functions:
 
 load_rtc_image
 normalize_image
+crop_to_common_extent
 stack_rtc_image
 colorize_rtc_band
 display_change
